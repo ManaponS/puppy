@@ -23,3 +23,7 @@ func BigBarks() string {
 func Ver1() string {
 	return "1.0.0"
 }
+
+func Ver12() string {
+	return "1.0.0"
+}
