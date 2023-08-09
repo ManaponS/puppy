@@ -20,6 +20,6 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Bark())
 }
 
-func TestBark() int {
-	return 1
+func Ver1() string {
+	return "1.0.0"
 }
